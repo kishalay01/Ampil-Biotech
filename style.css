@@ -1,0 +1,27 @@
+img{
+    width: auto;
+    height: 60px;
+}
+body{
+    background-color: rgb(181, 197, 211);
+}
+.review{
+    text-align: center;
+    color: black;
+    text-size-adjust: 100px;
+    justify-content: center;
+    font-size: x-large;
+}
+h1{
+    display: flex;
+    color: rgb(80, 144, 180);
+    justify-content: center;
+    font-size: xx-large;
+    align-items: center;
+    font-style: italic;
+    font-weight: 100px;
+    text-decoration: cornflowerblue;
+    width: auto;
+    height: auto;
+    
+}
